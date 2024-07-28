@@ -11,5 +11,7 @@ public class HI {
     public static void main(String[] args) {
         Abc obj= new Abc(5);
         System.out.println(obj.a);
+        System.out.println(obj.a);
+
     }
 }
